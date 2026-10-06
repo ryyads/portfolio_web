@@ -1,0 +1,28 @@
+/* Footer.css */
+.footer {
+    background:  rgb(126, 87, 164);
+    color: white;
+    text-align: center;
+    padding: 30px 20px;
+  }
+  
+  .footer a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+  }
+  
+  .social-footer {
+    margin: 20px 0;
+  }
+  
+  .social-footer img {
+    width: 30px;
+    margin: 0 10px;
+  }
+  
+  .footer p {
+    font-size: 14px;
+    margin-top: 10px;
+  }
+  

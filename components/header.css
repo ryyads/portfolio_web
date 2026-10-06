@@ -1,0 +1,29 @@
+/* components/Header.css */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 50px;
+    background: rgb(223, 197, 249);
+  }
+  
+  .logo {
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+  }
+  
+  .nav a {
+    margin-left: 20px;
+    text-decoration: none;
+    color: rgb(126, 87, 164);
+    font-weight: 500;
+  }
+  
+  .contact-button {
+    padding: 8px 16px;
+    background: rgb(255, 255, 255);
+    color: white;
+    border-radius: 20px;
+  }
+  
