@@ -1,0 +1,38 @@
+/* About.css */
+.about {
+    padding: 60px 20px;
+    background: rgb(223, 197, 249);
+    text-align: center;
+  }
+  
+  .about h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    color: rgb(126, 87, 164);
+  }
+  
+  .about p {
+    max-width: 600px;
+    margin: 0 auto 40px;
+    color: rgb(223, 197, 249);
+  }
+  
+  .services {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 30px;
+    color: rgb(126, 87, 164);
+  }
+  
+  .service {
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    width: 250px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  }
+  
+  .service h3 {
+    margin-bottom: 10px;
+  }

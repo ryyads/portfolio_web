@@ -1,0 +1,30 @@
+/* Skills.css */
+.skills {
+    padding: 60px 20px;
+    text-align: center;
+    background: #ffffff;
+  }
+  
+  .skills h2 {
+    font-size: 36px;
+    margin-bottom: 30px;
+    color: rgb(223, 197, 249);
+  }
+  
+  .skills-icons {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 40px;
+  }
+  
+  .skills-icons div {
+    text-align: center;
+    color: rgb(223, 197, 249);
+  }
+  
+  .skills-icons img {
+    width: 60px;
+    height: 60px;
+  }
+  

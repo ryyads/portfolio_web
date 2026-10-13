@@ -1,0 +1,34 @@
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 60px 0;
+    background: white;
+  }
+  
+  .hero-text h1 {
+    font-size: 48px;
+    margin: 0;
+    color: rgb(126, 87, 164);
+  }
+  
+  .hero-text h2 {
+    font-size: 24px;
+    color: rgb(223, 197, 249);
+  }
+  
+  .hero-text p {
+    font-size: 18px;
+    color: rgb(126, 87, 164);
+  }
+  
+  .social-links img {
+    width: 30px;
+    margin: 10px;
+  }
+  
+  .hero-image img {
+    width: 300px;
+    border-radius: 50%;
+  }
+  
